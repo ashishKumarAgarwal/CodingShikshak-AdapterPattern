@@ -1,2 +1,2 @@
-# LetsLearnTogether-AdapterPattern
+# CodingShikshak-AdapterPattern
 Adapter pattern example using C#
